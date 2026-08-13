@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512" role="img" aria-label="Kotoba">
+  <title>Kotoba</title>
+  <!-- Two flashcards, the back one turning away.
+       Palette matches the app: oat paper, indigo, brass.
+       The letterform is drawn as paths, not text, so the icon renders
+       identically without depending on any font being installed. -->
+  <rect width="512" height="512" rx="112" fill="#F4EFE4"/>
+
+  <!-- back card -->
+  <rect x="108" y="130" width="252" height="206" rx="26"
+        fill="none" stroke="#A67C2E" stroke-width="20" stroke-linejoin="round"/>
+
+  <!-- front card -->
+  <rect x="152" y="174" width="252" height="206" rx="26"
+        fill="#FFFCF6" stroke="#2C5470" stroke-width="20" stroke-linejoin="round"/>
+
+  <!-- serif "A", outlined so no font is required -->
+  <path fill="#2C5470" d="
+    M 278 214
+    l 46 118
+    h -24
+    l -11.5 -30
+    h -45
+    l -11.5 30
+    h -22
+    l 45 -118
+    z
+    M 266 228
+    l -16.5 44
+    h 33.5
+    z
+  "/>
+  <!-- serif feet -->
+  <rect x="228" y="326" width="34" height="6" rx="3" fill="#2C5470"/>
+  <rect x="296" y="326" width="34" height="6" rx="3" fill="#2C5470"/>
+</svg>
