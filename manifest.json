@@ -1,0 +1,36 @@
+{
+   "background_color" : "#F4EFE4",
+   "description" : "เรียนภาษาอังกฤษ A1–A2 สำหรับคนไทย · English for Thai speakers",
+   "display" : "standalone",
+   "icons" : [
+      {
+         "purpose" : "any",
+         "sizes" : "any",
+         "src" : "icons/icon.svg",
+         "type" : "image/svg+xml"
+      },
+      {
+         "purpose" : "any",
+         "sizes" : "192x192",
+         "src" : "icons/icon-192.png",
+         "type" : "image/png"
+      },
+      {
+         "sizes" : "192x192",
+         "src" : "apple-touch-icon.png",
+         "type" : "image/png"
+      },
+      {
+         "sizes" : "48x48",
+         "src" : "icons/icon-48.png",
+         "type" : "image/png"
+      }
+   ],
+   "lang" : "th",
+   "name" : "ことば · เรียนภาษาอังกฤษ",
+   "orientation" : "portrait",
+   "scope" : "./",
+   "short_name" : "ことば",
+   "start_url" : "./",
+   "theme_color" : "#F4EFE4"
+}
